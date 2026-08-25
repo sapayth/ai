@@ -45,6 +45,7 @@ build-types/
 
 
 # Environment
+.env
 
 
 
@@ -112,4 +113,3 @@ CLAUDE.md
 
 ai.zip
 
-config.bat
