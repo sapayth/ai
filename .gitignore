@@ -23,6 +23,7 @@ build-scripts/
 build-types/
 
 # Environment
+.env
 
 # AI files
 .gemini/
@@ -57,4 +58,3 @@ CLAUDE.md
 
 # Build
 ai.zip
-config.bat
