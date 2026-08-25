@@ -16,8 +16,8 @@
   ],
   "scripts": {
     "plugin-zip": "wp-scripts plugin-zip",
-    "build": "wp-scripts build",
-    "start": "wp-scripts start",
+    "build": "node init && wp-scripts build",
+    "start": "node init && wp-scripts start",
     "format:js": "wp-scripts format ./src",
     "lint:js": "wp-scripts lint-js",
     "lint:js:fix": "wp-scripts lint-js --fix",
